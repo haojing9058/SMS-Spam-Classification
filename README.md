@@ -1,1 +1,2 @@
 # SMS-Spam-Classification
+In this project, I have explored and compared text preprocessing and feature selection methods among word count, character count, bag of words, removing stop words, stemming, and Lemmatization. Logistic regression classifier is used to detect ham or spam SMS messages. The dataset is a collection of 5,574 text messages in English, taggled according being ham (legitimate) or spam. The originate dataset can be found at https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection.
